@@ -7,7 +7,7 @@ Subject:
 From:
 Ari Sohandri <arisohandriputra@gmail.com>
 Date:
-2021.01.05, 14:09
+19.05.2023, 14:09
 To:
 devel@edk2.groups.io
  
@@ -69,7 +69,7 @@ Into this:
 
 Subject: [edk2-platforms][PATCH 1/1] Platform/RaspberryPi: Fix Linux kernel panic on reset/poweroff
 From: Ari Sohandri <arisohandriputra@gmail.com>
-Date: 2021.01.05, 14:09
+Date: 19.05.2023, 14:09
 To: devel@edk2.groups.io
  
 Commit 94e9fba43d7e132be3c582c676968a7f408072c1 introduced an unconditional
